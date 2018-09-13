@@ -93,11 +93,11 @@
           this.refreshDone();
         }, 2000)
       },
-      // refreshDone() {
-      //   // this.state = 0;
-      //   // this.top = 0;
-      //   // this.canRefresh = false;
-      // }
+      refreshDone() {
+        // this.state = 0;
+        // this.top = 0;
+        // this.canRefresh = false;
+      }
     }
   }
 </script>
