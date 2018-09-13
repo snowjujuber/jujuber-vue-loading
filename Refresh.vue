@@ -94,9 +94,9 @@
         }, 2000)
       },
       refreshDone() {
-        // this.state = 0;
-        // this.top = 0;
-        // this.canRefresh = false;
+         this.state = 0;
+         this.top = 0;
+         this.canRefresh = false;
       }
     }
   }
